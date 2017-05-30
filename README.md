@@ -1,7 +1,10 @@
-										YouTubeWithReact
+YouTubeWithReact
 
 
-Built an application that allows user to search for YouTube videos. This application mocks actual YouTube site.
+Built an application that allows user to search for YouTube videos. 
+Technologies used to build this application are React with JSX, HTML, CSS.
+This application mocks actual YouTube site.
+Whenever user enters content in the Search box, five recommended YouTube videos are fetched and displayed on the right. 
 Recommendations shown while user enters content to search is quicker than actual YouTube site. 
 It is very similar to Google search!
 
