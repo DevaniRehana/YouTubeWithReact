@@ -1,25 +1,19 @@
-# ReduxSimpleStarter
+										YouTubeWithReact
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
 
-### Getting Started
+Built an application that allows user to search for YouTube videos. This application mocks actual YouTube site.
+Recommendations shown while user enters content to search is quicker than actual YouTube site. 
+It is very similar to Google search!
 
-There are two methods for getting started with this repo.
 
-#### Familiar with Git?
-Checkout this repo, install dependencies, then start the gulp process with the following:
+Use the below commands and run it on your system to get the look and feel of this application.
 
+
+## Install npm packages
+
+```bash
+npm install
+npm start
 ```
-> git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
-> cd ReduxSimpleStarter
-> npm install
-> npm start
-```
 
-#### Not Familiar with Git?
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
-
-```
-> npm install
-> npm start
-```
+For more details, feel free to write to rehana.devani@gmail.com
